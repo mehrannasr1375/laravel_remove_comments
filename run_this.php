@@ -1,8 +1,12 @@
 <?php
 /*
- *  Just Run this script on your laravel app 
+ *  Just Run this script on this way:
+ *    1. copy this file & put it into laravel app root directory.
+ *    2. open a new terminal and run: `php ./run_this.php`
  *
- *  put each directory name that you want to remove comments from it into $directories array
+ *  All Done!
+ *
+ *  put each directory name that you want to remove comments from it, into `$directories` array
  */
 
 $directories = [
